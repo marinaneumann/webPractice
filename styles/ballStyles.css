@@ -14,6 +14,18 @@
   animation-timing-function:linear;
 }
 
+#ball2{
+  background:blue;
+  left:50%;
+  animation-timing-function:ease-in;
+}
+
+#ball3{
+  background:green;
+  left:75%;
+  animation-timing-function: cubic-bezier(0.21,0.544, 0.345,1.93);
+}
+
 @keyframes bounce{
   50%{
     top:10%;
