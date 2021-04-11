@@ -25,6 +25,11 @@
   left:75%;
   animation-timing-function: cubic-bezier(0.21,0.544, 0.345,1.93);
 }
+#ball4{
+  background:yellow;
+  right:90%;
+  animation-timing-function:cubic-bezier(0.311, 0.444, 0.441, 1.648);
+}
 
 @keyframes bounce{
   50%{
