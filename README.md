@@ -1,3 +1,4 @@
+Working through Responsive Web Design certification course on freeCodeCamp
 Web Practice involves mostly HTML/CSS skills implementing small projects
 such as:
 Completed:
